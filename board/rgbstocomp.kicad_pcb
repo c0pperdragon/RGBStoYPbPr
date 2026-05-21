@@ -2040,7 +2040,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "5k49"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "7a8c54fe-1383-4f2d-b5d1-692a4968e1de")
@@ -3720,7 +3720,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* MSOP*3x3mm*P0.65mm* SSOP*2.95x2.8mm*P0.65mm* TSSOP*3x3mm*P0.65mm* VSSOP*P0.5mm* TO?99*")
-		(path "/4e6034c2-0d98-44ee-b128-e60c844fe2a5")
+		(path "/130c2f13-cd96-4e47-a33e-6cad96db50fa")
 		(sheetname "/")
 		(sheetfile "rgbstocomp.kicad_sch")
 		(attr smd)
