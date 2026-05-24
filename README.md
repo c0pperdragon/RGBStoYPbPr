@@ -7,5 +7,5 @@ turned out pretty nicely. To create the necessary non-standard resistor values, 
 When allowing up to three resistors in a parallel configuration, the computer search finds an extremly good fit for every desired value
 by using only the E6 series.
 
-![alt text](pics/topsideside.jpg "Single sided PCB with components")
+![alt text](pics/topside.jpg "Single sided PCB with components")
 ![alt text](pics/backside.jpg "Back side wiring")
